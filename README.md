@@ -5,6 +5,6 @@
 <p>2. sudo kill -9 pid값</p>
 
 <b>Git 계정 변경 방법</b>
-<p>1. git config — global user.name amy</p>
+<p>1. git config — global user.name handdang</p>
 <p>2. git config — global user.email yunha97@naver.com</p>
 <p>또는 소스트리 설저에서 변경해도 됨 ㅎ</p>
