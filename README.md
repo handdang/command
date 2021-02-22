@@ -12,3 +12,8 @@ git config — global user.name handdang
 git config — global user.email yunha97@naver.com
 ```
 또는 소스트리 설에서 변경해도 됨 ㅎ
+
++ Git requested URL returned Error 403 
+```
+git remote set-url origin https://handdang@github.com/handdang/vanilajs.git
+```
